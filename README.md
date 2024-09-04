@@ -31,7 +31,6 @@
 ## Acknowledgements
 - This project was inspired by an UpGrad machine learning assignment to build a multiple linear regression model for demand prediction.
 - The dataset was provided by BoomBikes for the purpose of this analysis.
-- Based on concepts covered in [this course](https://www.upgrad.com/).
 
 ## Contact
 Created by [@pkkundu533] - feel free to contact me!
